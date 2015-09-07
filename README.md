@@ -6,7 +6,7 @@ Ghost is a free, open, simple blogging platform. Visit the project's website at 
 
 To get your own Ghost blog running on Heroku, click the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cobyism/ghost-on-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/freekrai/ghost-on-heroku)
 
 Fill out the form, and you should be cooking with gas in a few seconds.
 
@@ -52,7 +52,7 @@ This repository is essentially a minimal web application that specifies [Ghost a
 
 ## Problems?
 
-If you have problems using your instance of Ghost, you should check the [official documentation](http://support.ghost.org/) or open an issue on [the official issue tracker](https://github.com/TryGhost/Ghost/issues). If you discover an issue with the deployment process provided by *this repository*, then [open an issue here](https://github.com/cobyism/ghost-on-heroku).
+If you have problems using your instance of Ghost, you should check the [official documentation](http://support.ghost.org/) or open an issue on [the official issue tracker](https://github.com/TryGhost/Ghost/issues). If you discover an issue with the deployment process provided by *this repository*, then [open an issue here](https://github.com/freekrai/ghost-on-heroku).
 
 ## License
 
